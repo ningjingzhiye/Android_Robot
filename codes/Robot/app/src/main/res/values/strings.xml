@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Robot</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string-array name="welcome_tips">
+        <item>主人,我是图灵机器人,欢迎你</item>
+        <item>主人,近来怎么样啊,有什么可以帮你的</item>
+        <item>master,很高兴有见到你</item>
+    </string-array>
+</resources>
